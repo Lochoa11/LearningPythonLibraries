@@ -1,6 +1,6 @@
 # LearningPythonLibraries
 
-<h2>Libraries I want to learn</h2>
+<h3>Libraries I want to learn</h3>
 <ol>
 	<li>Numpy</li>
 	<li>Scipy</li>
